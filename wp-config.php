@@ -25,7 +25,7 @@ define('DB_USER', 'wpadmin');
 define('DB_PASSWORD', 'sither!23');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'prod-db');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
