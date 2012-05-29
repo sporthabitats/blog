@@ -1,0 +1,5 @@
+/* Apply any print styles here */
+
+.noprint {
+	display: none !important;
+}

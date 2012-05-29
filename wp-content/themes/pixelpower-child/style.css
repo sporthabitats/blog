@@ -1,0 +1,19 @@
+/*
+Theme Name:     Pixelpower
+Theme URI:      http://example.com/
+Description:    Child theme for the pixelpower theme 
+Author:         Playersync
+Author URI:     http://example.com/about/
+Template:       pixelpower
+Version:        0.1.0
+*/
+
+
+a, a:link, a:visited, a:hover, a:active, a:focus, .entry-title a:hover, .portfolio-item-meta a { color: #08c; }
+
+.post-format-icon { background-color: #09c; }
+
+#logo img { position: relative; top: 8px; }
+#branding { border: none; background: transparent; }
+#branding_wrap { border-bottom: none; margin: 10px 0 10px 0; }
+#site-description { bottom: 10px; }
